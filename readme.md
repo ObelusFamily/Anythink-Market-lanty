@@ -11,3 +11,8 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+
+## Setting up a local environment
+Make sure docker is installed
+To Verify if it is installed and ready by running docer -v and docker-compose -v in a terminal
+Then, run docker-compose up from the project root directory in the command line to load Anythink's backend and frontend.
